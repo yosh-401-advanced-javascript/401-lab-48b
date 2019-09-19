@@ -8,8 +8,8 @@ Props Practice!
 
 
 ### Links and Resources
-* [submission PR](https://github.com/yosh-401-advanced-javascript/401-lab-27/pull/1)
-* [travis](https://travis-ci.com/yosh-401-advanced-javascript/401-lab-27/builds/128102023)
+* [submission PR](https://github.com/yosh-401-advanced-javascript/401-lab-48b/pull/1)
+* [travis](https://travis-ci.com/yosh-401-advanced-javascript/401-lab-48b/builds/128102023)
 
 #### Documentation
 * `npm run docs`
