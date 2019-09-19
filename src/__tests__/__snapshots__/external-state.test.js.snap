@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing App  Testing Form  should should render correctly 1`] = `
+<div>
+  <form>
+    <input
+      type="text"
+    />
+  </form>
+  <button
+    type="submit"
+  >
+     Click Me! 
+  </button>
+</div>
+`;
+
+exports[`Testing App  should should render correctly 1`] = `
+<div>
+  <div>
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+    </form>
+    <button
+      type="submit"
+    >
+       Click Me! 
+    </button>
+  </div>
+  <div>
+    Name:  
+    
+     
+  </div>
+  <div
+    className="name"
+  >
+    # of Updates:  
+    0
+     
+  </div>
+</div>
+`;
+
+exports[`should render correctly 1`] = `
+<div>
+  <div>
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+    </form>
+    <button
+      type="submit"
+    >
+       Click Me! 
+    </button>
+  </div>
+  <div>
+    Name:  
+    
+     
+  </div>
+  <div
+    className="name"
+  >
+    # of Updates:  
+    0
+     
+  </div>
+</div>
+`;
