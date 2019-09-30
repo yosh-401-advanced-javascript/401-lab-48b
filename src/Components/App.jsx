@@ -14,14 +14,13 @@ class App extends React.Component {
   counter = (event) => {
     console.log('here');
     this.setState((previousState) => {
-      return {count: previousState.count + 1}
+      return { count: previousState.count + 1 };
     });
-
   };
 
-  handleChange = event => {
+  handleChange = (event) => {
     console.log(event.target.value);
-    this.setState( {
+    this.setState({
       name: event.target.value,
 
     });
